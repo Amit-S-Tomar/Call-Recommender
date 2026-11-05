@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+twilio
+python-dotenv
+redis
+google-genai
+websockets
+ngrok 
+audioop
